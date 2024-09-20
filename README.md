@@ -48,32 +48,30 @@ password: 147852mm
 Admin:
 username: admin
 password: admin
-
-
 ```
 
 ## Project Features:
 #### Module 1:
-Log in, Log out.  
-Sign Up / Registration. 
-View Profile
-Edit Profile. 
-Reset Password. 
-Gmail Authentication.  
-GitHub Authentication.  
-Delete Profile using the actual password.
+- Log in, Log out.  
+- Sign Up / Registration. 
+- View Profile
+- Edit Profile. 
+- Reset Password. 
+- Gmail Authentication.  
+- GitHub Authentication.  
+- Delete Profile using the actual password.
 
 
 ### Module 2:
-Notification reminder.
-Workout plan.
-Nutrition plan.
-BMI page.
-Exercise video tutorial play.
-Nutrition values.
-Support and FAQs.
+- Notification reminder.
+- Workout plan.
+- Nutrition plan.
+- BMI page.
+- Exercise video tutorial play.
+- Nutrition values.
+- Support and FAQs.
 
 
 
 ### Contributors
-https://github.com/FaisalAhmed21 | https://github.com/ShafiurShuvo | https://github.com/NaziaMumtahina | https://github.com/jerinsync
+[Faisal Ahmed](https://github.com/FaisalAhmed21) | [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | [Nazia Mumtahina](https://github.com/NaziaMumtahina) | [Sara Jerin Prithila](https://github.com/jerinsync)
