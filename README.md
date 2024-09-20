@@ -37,7 +37,7 @@ Username: shuvo
 password: 12345578p
 
 Trainer username:
-apple
+username: apple
 password: applejuiceapple
 
 Owner username:
