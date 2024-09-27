@@ -25,7 +25,28 @@ Our platform is designed to empower individuals to achieve their health and well
 
 #### Optional:
 
-Commands that may be needed `pip install django-mathfilters` , `pip install django-jazzmin` , `pip install Pillow` , `pip install cryptography`, `pip install django-allauth`, `pip install request`, `pip install django-middleware`
+Commands that may be needed:
+<!--
+- `pip install django-mathfilters`
+- `pip install django-jazzmin`
+- `pip install Pillow`
+- `pip install cryptography`
+- `pip install django-allauth`
+- `pip install request`
+- `pip install django-middleware`
+   -->
+
+- `pip install django`
+- `pip install django-jazzmin`
+- `pip install mysql`
+- `pip install middleware`
+- `pip install django-allauth`
+- `pip install django-mathfilters`
+- `pip install requests`
+- `pip install PyJWT`
+- `pip install cryptography`
+- `pip install pillow`
+
 
 
 ## Login Info:
